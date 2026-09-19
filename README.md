@@ -13,3 +13,5 @@ Hands-on practical certification repository completing the **GitHub Skills: Intr
 
 ---
 *Created by [Oussama EL HADJI](https://github.com/Bosaj) as part of continuous engineering excellence.*
+
+<!-- Badge Milestone: YOLO & Pair Extraordinaire -->
