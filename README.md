@@ -1,5 +1,8 @@
 # Introduction to GitHub — Skills Lab
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Bosaj/skills-introduction-to-github) [![GitHub release](https://img.shields.io/github/v/release/Bosaj/skills-introduction-to-github?color=blue&label=release)](https://github.com/Bosaj/skills-introduction-to-github/releases) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 <p align="center">
   <img src="assets/social_preview.png" alt="skills-introduction-to-github Banner" width="100%">
 </p>
