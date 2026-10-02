@@ -3,8 +3,8 @@ message: "If you use this software, please cite it using the metadata from this 
 title: "Skills Introduction To Github"
 abstract: "My clone repository"
 authors:
-  - family-names: "Oussous"
-    given-names: "El Hadji"
+  - family-names: "EL HADJI"
+    given-names: "Oussama"
     alias: "Bosaj"
     email: "oussousselhadji@gmail.com"
 repository-code: "https://github.com/Bosaj/skills-introduction-to-github"
